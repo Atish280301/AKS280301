@@ -58,8 +58,6 @@ I am a Full-Stack Developer and highly skilled CSE/IT graduate with experience i
 
 ## 🔗 Links
 [[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/AKS2831) 
-
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aks280301/)
-
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/atish_kumar_sahu_280301?igsh=MW5yY2VvdW9ibmpmeA==)]
 
