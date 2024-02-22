@@ -3,14 +3,14 @@
 
 
 ## 🚀 About Me
-I am a full stack developer and highly skilled CSE/IT graduate with experience in C, Java, Web Development, and MySQL. I am actively seeking a challenging role in the technology industry to fuel continuous learning and professional growth. My strong programming background and passion for innovation make me a valuable asset for any dynamic team of which I am a part.
+I am a Full-Stack Developer and highly skilled CSE/IT graduate with experience in C, Java, Web Development, and MySQL. I am actively seeking a challenging role in the technology industry to fuel continuous learning and professional growth. My strong programming background and passion for innovation make me a valuable asset for any dynamic team of which I am a part.
 
 
 ## My Current Status
 
 ### I'm currently learning... 
 
-🧠  Computer Network & Data Commnuication (CNDC)
+🧠  Computer Network & Data Communication (CNDC)
 
 🧠  Cryptography & Network Security (CNS)
 
@@ -59,12 +59,13 @@ I am a full stack developer and highly skilled CSE/IT graduate with experience i
 ## 🔗 Links
 # AKS280301
 <p>
-  <a>
-    <i class="fa-brands fa-linkedin" style="color: #00076b;"></i>
+  <a href="https://www.linkedin.com/in/aks280301/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40">
   </a>
-  <a>
-    <i class="fa-brands fa-instagram" style="color: #d1008f;"></i>
+  <a href="https://www.instagram.com/atish_kumar_sahu_280301?igsh=MW5yY2VvdW9ibmpmeA==">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40">
+  </a>
+    <a href="https://www.instagram.com/atish_kumar_sahu_280301?igsh=MW5yY2VvdW9ibmpmeA==">
+    <img src="https://skillicons.dev/icons?i=facebook" alt="Instagram" width="40" height="40">
   </a>
 </p>
