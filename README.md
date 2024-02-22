@@ -60,7 +60,7 @@ I am a Full-Stack Developer and highly skilled CSE/IT graduate with experience i
 # AKS280301
 <p>
   <a href="https://www.linkedin.com/in/aks280301/">
-    <i class="fa-brands fa-linkedin" style="color: #004fd6;"></i>
+    <img src="https://icons8.com/icon/8808/linkedin" alt="LinkedIn" width="40" height="40">
   </a>
   <a href="https://www.instagram.com/atish_kumar_sahu_280301?igsh=MW5yY2VvdW9ibmpmeA==">
     
