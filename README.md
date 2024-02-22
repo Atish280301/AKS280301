@@ -58,9 +58,7 @@ I am a Full-Stack Developer and highly skilled CSE/IT graduate with experience i
 
 ## 🔗 Links
 <p>
-  <a href="https://github.com/AKS2831">
-    <img src="https://skillicons.dev/icons?i=github" alt="Instagram" width="40" height="40">
-  </a>
+  [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/AKS2831)
   <a href="https://www.linkedin.com/in/aks280301/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40">
   </a>
