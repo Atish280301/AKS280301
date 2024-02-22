@@ -58,7 +58,7 @@ I am a full stack developer and highly skilled CSE/IT graduate with experience i
 
 ## 🔗 Links
 # AKS280301
-<p align="center">
+<p>
   <a>
     <i class="fa-brands fa-linkedin" style="color: #00076b;"></i>
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40">
