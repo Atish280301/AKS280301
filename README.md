@@ -60,13 +60,13 @@ I am a Full-Stack Developer and highly skilled CSE/IT graduate with experience i
 <p>
   <a href="https://github.com/AKS2831">
     <img src="https://skillicons.dev/icons?i=github" alt="Instagram" width="50" height="50">
-  </a>
+  </a> &nbsp
   
   <a href="https://www.linkedin.com/in/aks280301/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50" height="50">
-  </a>
+  </a> &nbsp
   
   <a href="https://www.instagram.com/atish_kumar_sahu_280301?igsh=MW5yY2VvdW9ibmpmeA==">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="50" height="50">
-  </a>
+  </a> &nbsp
 </p>
